@@ -1,2 +1,2 @@
 # lukie0801.github.io
-Passionproject website
+An interactive website explaining human biology and biomedical engineering, built while learning HTML, CSS, and JavaScript.
